@@ -1,0 +1,9 @@
+minecraft/*
+instance.cfg
+mmc-pack.json
+
+!/minecraft/config*
+!/minecraft/defaultconfigs*
+!/minecraft/kubejs*
+!/minecraft/pakku-lock.json
+!/minecraft/pakku.json
